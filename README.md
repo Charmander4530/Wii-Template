@@ -34,5 +34,3 @@ Optional banner editing:
 - [**BNS Tools / Wii Banner Player**](https://github.com/DirkClemens/BNS-Tools) – edit icons, animations, and sound  
 
 ---
-
-## Project Structure
